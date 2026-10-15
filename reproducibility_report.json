@@ -1,0 +1,19 @@
+{
+  "identical": true,
+  "compared_fields": [
+    "route",
+    "week_of",
+    "cost_per_tonne_km",
+    "vs_own_history",
+    "vs_similar_routes",
+    "own_change",
+    "peer_change",
+    "is_anomaly",
+    "matched_note_id"
+  ],
+  "sha256": {
+    "run_1": "f9d8e029b8bd4d6be81bc5c51ee2ecaf33c79cb2f93b8fac095ddd59fc653c76",
+    "run_2": "f9d8e029b8bd4d6be81bc5c51ee2ecaf33c79cb2f93b8fac095ddd59fc653c76",
+    "run_3": "f9d8e029b8bd4d6be81bc5c51ee2ecaf33c79cb2f93b8fac095ddd59fc653c76"
+  }
+}

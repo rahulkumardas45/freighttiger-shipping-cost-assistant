@@ -1,0 +1,18 @@
+{
+  "run_timestamp_utc": "2026-10-15T06:28:20.317687+00:00",
+  "run_scope": "Final output-generation run after date-window correction",
+  "llm_model": "gemini-3.5-flash-lite",
+  "llm_calls_attempted": 2,
+  "llm_calls_succeeded": 2,
+  "input_tokens_reported_by_api": 451,
+  "output_tokens_reported_by_api": 60,
+  "usage_metadata_missing_calls": 0,
+  "llm_api_errors": 0,
+  "fallback_explanations": 0,
+  "paid_tier_input_usd_per_million_tokens": 0.3,
+  "paid_tier_output_usd_per_million_tokens": 2.5,
+  "estimated_paid_tier_equivalent_cost_usd": 0.0002853,
+  "pricing_source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_checked_on": "2026-10-15",
+  "cost_note": "Published paid-tier equivalent estimate based on the recorded final run; not a claim about the actual amount billed."
+}
